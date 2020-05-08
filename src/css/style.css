@@ -309,6 +309,7 @@
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
+  outline: none;
 }
 
 body {
@@ -320,5 +321,9 @@ body {
   max-width: 1256px;
   width: 96%;
   margin: auto;
+}
+
+button {
+  border: none;
 }
 /*# sourceMappingURL=style.css.map */
